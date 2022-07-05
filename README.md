@@ -17,7 +17,7 @@
 - qube is runing 
 - open browser myserverip:9000
 - admin / admin
-- add new pasword : jelszotadok12
+- add new pasword : ***************
 
 # Project
 
@@ -34,4 +34,8 @@
     docker run -d -p 9000:9000 -v sonarqube_conf:/opt/sonarqube/conf -v sonarqube_extensions:/opt/sonarqube/extensions -v sonarqube_logs:/opt/sonarqube/logs -v sonarqube_data:/opt/sonarqube/data sonarqube
     sudo docker ps
     sudo docker volume ls
+
+# Install PostgreSQL and SonarQube my server
+
+https://developerinsider.co/install-sonarqube-on-ubuntu/
 
