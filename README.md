@@ -1,3 +1,8 @@
+# Documentation:
+
+https://docs.sonarqube.org/latest/analysis/scan/sonarscanner-for-jenkins/
+
+
 # Setup to server
 
 - connect to server with SSH
