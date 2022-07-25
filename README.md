@@ -19,7 +19,7 @@
 - when outside accept, open this port
 - admin / admin
 - add new pasword : ***************
-- Administration /security / users / tokens / Update tokens
+- Administration /security / users / tokens / Update tokens ( under token line icon )
 - " jenkins " Generate copy this token
 - Open Jenkins server / Manage Jenkins / Configure System / 
 - Sonar qube / Server authentication token / Add / jenkins
