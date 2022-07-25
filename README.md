@@ -29,13 +29,21 @@
 - Save
 - select this token
 
-# Project
+# Setup Project in Sonarqube
 
 - Projects / Manualy 
 - give display name " testproject "
 - Open my jenkins server install plugin " SonarQube Scanner "
 - select localy and making new token
 - Quality gates / create / test
+
+# Setup Webhook in Sonarqube
+
+-  Administration / Configuration / Webhooks
+-  Create
+-  Name : Jenkins
+-  Url: http://jenkinsserverip:port/sonarqube-webhook
+-  secret: empty blank
 
 # Remov old and was making new sonarqube
 
